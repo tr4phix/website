@@ -95,7 +95,7 @@ other = """Wenn Dich keine der Herausforderungen überzeugt, kannst Du selbstver
 other = """Make Zurich ist dank der tollen Zusammenarbeit eines grossartigen Teams möglich:"""
 
 [features]
-other = "Was finde ich hier"
+other = "Was finde ich hier?"
 
 [features_learning_title]
 other = "Lernen"
